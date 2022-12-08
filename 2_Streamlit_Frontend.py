@@ -142,13 +142,6 @@ if submit:
     #Plotting geotags for positive and negative reviews
     st.header('Interactive Map')
     st.write('This interactive map provides a visual representation of the output of the listings and associated sentiment analysis. Use **_scroll_** to zoom in and out of the map area to view the listings. The tooltip provides information about the neighborhood of the listing, latitude, longitude, VADER sentiment score, price and outcome of the Vader categorization (positive/neutral or negative). The color scheme of the tooltip varies from blue to red based on the VADER sentiment score.')
-    df_new2.dropna(
-        axis=0,
-        how='any',
-        thresh=None,
-        subset=None,
-        inplace=True
-    )
     
     color_scale = [(0, 'red'), (1, 'blue')]
     
