@@ -4,7 +4,7 @@ Please fork this repository and paste the github link of your fork on Microsoft 
 
 1) An overview of the function of the code (i.e., what it does and what it can be used for). 
 
-&nbsp;CS410 Project Tutorial.pptx <br/>
+>CS410 Project Tutorial.pptx <br/>
 &nbsp;1_Data_Processing_Cleaning.ipynb <br/>
 &nbsp;2_Streamlit_Frontend.py <br/>
 
