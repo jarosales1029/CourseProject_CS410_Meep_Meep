@@ -1,6 +1,6 @@
 # CourseProject
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.  The file name listed under each graded area below pertains to where you could find all of the information.
+Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.  The file name listed under each graded area below pertains to where you could find all of the information.  Note: The PowerPoint will need to be downloaded after you click on the link.
 
 1) An overview of the function of the code (i.e., what it does and what it can be used for). 
 
