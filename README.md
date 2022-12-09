@@ -16,6 +16,7 @@ Please fork this repository and paste the github link of your fork on Microsoft 
 
 3) Documentation of the usage of the software including either documentation of usages of APIs or detailed instructions on how to install and run a software, whichever is applicable.
 
+>Link to our Video: https://uofi.box.com/s/k577hdejew39sjz6chte2ltol40ui7f6
 >CS410 Project Tutorial.pptx <br/>
 
 4) Brief description of contribution of each team member in case of a multi-person team.
